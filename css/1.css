@@ -2,7 +2,15 @@
 * @Author: Administrator
 * @Date:   2017-09-07 17:08:25
 * @Last Modified by:   Administrator
-* @Last Modified time: 2017-09-07 17:10:14
+* @Last Modified time: 2017-09-07 19:50:07
 */
-h1{color: red;}
-h3{color: blue;}
+h1{color: #a0422b;font-size: 30px;text-align: center;}
+
+body{background: url(../img/7.jpg)no-repeat;
+background-size: 100%;}
+.nav{margin: 0 auto;}
+.h1{color: #6473ab;font-size: 20px;
+text-align: center; }
+.h2{
+width: 30%;height: 30%;
+}
